@@ -1,5 +1,5 @@
 import React from "react";
-import ShopItem from "../Pages/ShopItem";
+import ShopItem from "../Pages/Product";
 
 const App = () => {
   return (
